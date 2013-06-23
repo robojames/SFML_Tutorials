@@ -1,0 +1,1 @@
+Texture written:  ../test_2.png
